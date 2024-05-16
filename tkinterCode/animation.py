@@ -8,3 +8,5 @@ for x in range(0, 60):
   canvas.move(1, 5, 0)
   tk.update()
   time.sleep(0.05)
+
+tk.mainloop()
